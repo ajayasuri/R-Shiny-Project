@@ -2,6 +2,10 @@
 .Rhistory
 .Rapp.history
 
+# OS files
+.DS_Store
+wp-config.php
+
 # Session Data files
 .RData
 
