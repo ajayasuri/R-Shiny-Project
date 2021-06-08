@@ -24,5 +24,4 @@ df$cast[df$cast == ""] <- NA
 df$country[df$country == ""] <- NA
 df$rating[df$rating == ""] <- NA
 
-df <- na.omit(df)
 
